@@ -1,3 +1,4 @@
+"""
 What is python and it's history?
 
 Python is a high-level, interpreted programming language known for its readability and simplicity. It was created by Guido van Rossum and first released in 1991. Python was designed to emphasize code readability, making it easier to write and maintain. Over time, it has become one of the most popular languages for web development, data analysis, automation, and more.
@@ -46,7 +47,7 @@ Comments and documentation strings?
 
   ```python
   def example_function():
-      """This function does something."""
+      #This function does something.
       pass
   ```
 ======================================================================================
@@ -161,4 +162,5 @@ Python also provides the `math` module for more advanced mathematical functions,
 
 ======================================================================================
 
+"""
 

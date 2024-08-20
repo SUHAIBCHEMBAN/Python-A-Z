@@ -16,6 +16,7 @@ elif x == 10:
 else:
     # Code for x < 10
 ```
+======================================================================================
 
 TODO:Looping structures (for, while)?
 
@@ -32,6 +33,7 @@ Looping structures allow repeated execution of code:
   while condition:
       # Code to execute
   ```
+======================================================================================
 
 TODO:Iteration and iterable objects?
 
@@ -45,6 +47,7 @@ my_list = [1, 2, 3]
 for item in my_list:  # Iteration
     print(item)
 ```
+======================================================================================
 
 TODO:Range and xrange functions?
 
@@ -67,7 +70,8 @@ TODO:Range and xrange functions?
 - **`xrange()` Function:** Exists only in Python 2. It behaves like `range()` but generates numbers on-the-fly (like an iterator) and is more memory-efficient for large ranges.
 
   In Python 3, `xrange()` is replaced by `range()`, which has the same memory-efficient behavior.
-
+  
+======================================================================================
 
 TODO:Control flow keywords (break, continue, pass)?
 
@@ -117,7 +121,7 @@ Control flow keywords manage the flow of loops:
   3
   4
   ```
-
+======================================================================================
 
 TODO:Exception handling with try-except blocks?
 
@@ -141,6 +145,7 @@ Cannot divide by zero
 
 You can also catch multiple exceptions or use a general `except` to catch any exception.
 
+======================================================================================
 
 TODO:Handling common exceptions?
 
@@ -180,6 +185,7 @@ Here’s how to handle some common exceptions in Python:
 
 These exceptions allow you to manage errors and maintain program stability.
 
+======================================================================================
 
 TODO:Raising custom exceptions?
 

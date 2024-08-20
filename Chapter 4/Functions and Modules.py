@@ -62,3 +62,4 @@ print(power(3, exponent=3))  # Output: 27 (3^3)
 
 Functions allow you to encapsulate and reuse code efficiently.
 """
+print('Success')

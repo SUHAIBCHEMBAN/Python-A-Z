@@ -61,5 +61,16 @@ print(power(3, exponent=3))  # Output: 27 (3^3)
 ```
 
 Functions allow you to encapsulate and reuse code efficiently.
+
+TODO:Function parameters and arguments?
+TODO:Scope and lifetime of variables?
+TODO:Return values and mutiple return statements?
+TODO:Anonymous functions (lamda functions)?
+TODO:Modules and importing modules?
+TODO:Exploring built-in modules (math,random,detatime)?
+TODO:Creating and using custom modules?
+TODO:Package management and virtual environments?
+
+
 """
 print('Success')
